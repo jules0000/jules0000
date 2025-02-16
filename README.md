@@ -159,31 +159,31 @@
     </a>
   </p>
 
-  <!-- Design & Other Tools -->
-  <h3>Design & Other Tools</h3>
-  <p align="center">
-    <a href="https://www.figma.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-    </a>
-    <a href="https://miro.com/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Miro_logo.svg" alt="Miro" width="40" height="40"/>
-    </a>
-    <a href="https://www.sketch.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    </a>
-  </p>
+ <!-- Design & Other Tools -->
+<h3>Design & Other Tools</h3>
+<p align="center">
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobexd.svg" alt="Adobe XD" width="40" height="40"/>
+  </a>
+  <a href="https://miro.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/miro.svg" alt="Miro" width="40" height="40"/>
+  </a>
+  <a href="https://www.sketch.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+</p>
 
   <!-- Other Technologies -->
   <h3>Other Technologies</h3>
