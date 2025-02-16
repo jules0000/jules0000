@@ -236,3 +236,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jules0000&theme=react-dark" alt="GitHub Activity Graph" />
   </p>
 </details>
+
+<!-- Snake Animation -->
+<p align="center">
+  ![Snake animation](https://github.com/thepiyushmalhotra/JULES000/blob/output/github-contribution-grid-snake.svg)
+</p>
