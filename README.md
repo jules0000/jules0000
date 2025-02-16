@@ -237,6 +237,4 @@
   </p>
 </details>
 
-<p align="center">
-  <img src="./resources/snake.svg" alt="Sneak"/>
-</p>
+
