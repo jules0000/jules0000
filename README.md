@@ -9,16 +9,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=jules0000&theme=dark" alt="Trophies" />
   </a>
 </p>
+
 <!-- Figma Account Preview -->
 <details open>
   <summary><h2 align="center">Figma Account Preview</h2></summary>
   <p align="center">
     <a href="https://www.figma.com/@julia_castro" target="_blank">
-      <!-- Replace the URL below with your actual preview image URL -->
-      <img src="https://www.figma.com/@julia_castro" alt="Figma Account Preview" />
+      <img src="figma.png" alt="Figma Account Preview" />
     </a>
   </p>
 </details>
+
 
 
 <!-- Interactive Social Links -->
