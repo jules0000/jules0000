@@ -91,26 +91,14 @@
     <a href="https://nextjs.org/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
     </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-    </a>
-    <a href="https://vuepress.vuejs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="VuePress" width="40" height="40"/>
-    </a>
     <a href="https://tailwindcss.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://d3js.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
     </a>
     <a href="https://www.chartjs.org" target="_blank">
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
@@ -128,9 +116,6 @@
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
     </a>
     <a href="https://codeigniter.com" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
@@ -163,9 +148,6 @@
   <!-- Cloud & DevOps -->
   <h3>Cloud & DevOps</h3>
   <p align="center">
-    <a href="https://aws.amazon.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    </a>
     <a href="https://azure.microsoft.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
     </a>
@@ -188,9 +170,6 @@
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-    </a>
-    <a href="https://www.invisionapp.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="InVision" width="40" height="40"/>
     </a>
     <a href="https://www.sketch.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/>
@@ -226,9 +205,6 @@
     </a>
     <a href="https://graphql.org/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.cypress.io" target="_blank">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank">
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="40" height="40"/>
