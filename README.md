@@ -4,11 +4,22 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jules0000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<p align="center">
+<p align="center">A
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jules0000&theme=dark" alt="Trophies" />
   </a>
 </p>
+<!-- Figma Account Preview -->
+<details open>
+  <summary><h2 align="center">Figma Account Preview</h2></summary>
+  <p align="center">
+    <a href="https://www.figma.com/@julia_castro" target="_blank">
+      <!-- Replace the URL below with your actual preview image URL -->
+      <img src="https://via.placeholder.com/800x400?text=Figma+Account+Preview" alt="Figma Account Preview" />
+    </a>
+  </p>
+</details>
+
 
 <!-- Interactive Social Links -->
 <details open>
