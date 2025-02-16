@@ -168,9 +168,13 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
     </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-    </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+</a>
+<a href="https://miro.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Miro_logo.svg" alt="Miro" width="40" height="40"/>
+</a>
+
     <a href="https://www.sketch.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/>
     </a>
