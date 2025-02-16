@@ -238,5 +238,5 @@
 </details>
 
 <p align="center">
-  <img src="./resources/snake.svg" alt="Snek"/>
+  <img src="./resources/snake.svg" alt="Sneak"/>
 </p>
