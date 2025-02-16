@@ -237,7 +237,6 @@
   </p>
 </details>
 
-<!-- Snake Animation -->
 <p align="center">
-  ![Snake animation](https://github.com/jules0000/jules0000/blob/output/github-contribution-grid-snake.svg)
+  <img src="./resources/snake.svg" alt="Snek"/>
 </p>
