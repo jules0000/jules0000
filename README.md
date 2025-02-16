@@ -15,7 +15,7 @@
   <p align="center">
     <a href="https://www.figma.com/@julia_castro" target="_blank">
       <!-- Replace the URL below with your actual preview image URL -->
-      <img src="https://via.placeholder.com/800x400?text=Figma+Account+Preview" alt="Figma Account Preview" />
+      <img src="https://www.figma.com/@julia_castro" alt="Figma Account Preview" />
     </a>
   </p>
 </details>
