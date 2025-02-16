@@ -239,5 +239,5 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  ![Snake animation](https://github.com/thepiyushmalhotra/JULES000/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jules0000/jules0000/blob/output/github-contribution-grid-snake.svg)
 </p>
