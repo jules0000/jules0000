@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<!-- Figma Account Preview -->
+<!-- Figma Profile -->
 <details open>
-  <summary><h2 align="center">Figma Account Preview</h2></summary>
+  <summary><h2 align="center">Figma Profile</h2></summary>
   <p align="center">
     <a href="https://www.figma.com/@julia_castro" target="_blank">
       <img src="figma.png" alt="Figma Account Preview" />
