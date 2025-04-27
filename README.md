@@ -8,6 +8,9 @@
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jules0000&label=Profile%20views&color=8e44ad&style=for-the-badge" alt="Profile views" />
+  </p>
+  
+  <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=jules0000&theme=nord&column=7&margin-w=10&margin-h=10" alt="Trophies" width="80%" />
     </a>
@@ -20,17 +23,22 @@
 <!-- About Me Section -->
 <details open>
   <summary><h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me</h2></summary>
-  <div align="center">
-    <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-    
-    <!-- About Me Content -->
-    <ul align="left" style="list-style-type: none;">
-      <li>🔭 I'm currently working on <b>Portfolio Projects</b></li>
-      <li>🌱 I'm continuously learning <b>Advanced Web Technologies</b></li>
-      <li>💬 Ask me about <b>Web Dev, UI/UX, JavaScript, React</b></li>
-      <li>⚡ Fun fact: <b>I love solving design challenges</b></li>
-    </ul>
-  </div>
+  
+  <table border="0">
+    <tr>
+      <td width="60%">
+        <ul align="left">
+          <li>🔭 I'm currently working on <b>Portfolio Projects</b></li>
+          <li>🌱 I'm continuously learning <b>Advanced Web Technologies</b></li>
+          <li>💬 Ask me about <b>Web Dev, UI/UX, JavaScript, React</b></li>
+          <li>⚡ Fun fact: <b>I love solving design challenges</b></li>
+        </ul>
+      </td>
+      <td width="40%">
+        <img align="right" alt="Coding" width="100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+      </td>
+    </tr>
+  </table>
 </details>
 
 <!-- Figma Profile -->
