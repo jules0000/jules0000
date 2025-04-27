@@ -1,23 +1,23 @@
 <!-- Modern Sleek Profile Header with Gradient Banner -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=EECEA8&height=180&section=header&text=Julia%20Castro&fontSize=42&fontColor=333&animation=fadeIn&fontAlignY=32" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F6E6C6&height=180&section=header&text=Julia%20Castro&fontSize=42&fontColor=333&animation=fadeIn&fontAlignY=32" width="100%" alt="Header Banner" />
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Based+in+Philippines" alt="Typing SVG" />
   </p>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jules0000&label=Profile%20views&color=8e44ad&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=jules0000&label=Profile%20views&color=deb887&style=for-the-badge" alt="Profile views" />
   </p>
   
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=jules0000&theme=nord&column=7&margin-w=10&margin-h=10" alt="Trophies" width="80%" />
+      <img src="https://github-profile-trophy.vercel.app/?username=jules0000&theme=flat&column=7&margin-w=10&margin-h=10&no-frame=true" alt="Trophies" width="80%" />
     </a>
   </p>
 
-  [![GitHub followers](https://img.shields.io/github/followers/jules0000?logo=GitHub&style=for-the-badge)](https://github.com/jules0000)
-  [![GitHub Stars](https://img.shields.io/github/stars/jules0000?logo=github&style=for-the-badge)](https://github.com/jules0000)
+  [![GitHub followers](https://img.shields.io/github/followers/jules0000?logo=GitHub&style=for-the-badge&color=F6E6C6)](https://github.com/jules0000)
+  [![GitHub Stars](https://img.shields.io/github/stars/jules0000?logo=github&style=for-the-badge&color=F6E6C6)](https://github.com/jules0000)
 </div>
 
 <!-- About Me Section -->
@@ -164,16 +164,16 @@
   
   <div align="center">
     <a href="https://github.com/jules0000">
-      <img src="https://github-readme-stats.vercel.app/api?username=jules0000&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" height="190px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jules0000&show_icons=true&locale=en&theme=slateorange&hide_border=true&count_private=true&bg_color=ffffff&title_color=deb887&icon_color=deb887&text_color=333333" alt="GitHub Stats" width="49%" height="190px" />
     </a>
     <a href="https://github.com/jules0000">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jules0000&theme=tokyonight&hide_border=true" alt="Streak Stats" width="49%" height="190px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jules0000&background=ffffff&ring=deb887&fire=deb887&currStreakNum=333333&currStreakLabel=333333&sideNums=333333&sideLabels=deb887&dates=333333&hide_border=true" alt="Streak Stats" width="49%" height="190px" />
     </a>
   </div>
   
   <div align="center">
     <a href="https://github.com/jules0000">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jules0000&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jules0000&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=deb887&text_color=333333&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
     </a>
   </div>
 </details>
@@ -183,10 +183,10 @@
   <summary><h2><img src="https://media.giphy.com/media/2p5kcN8d1I65I8gKKD/giphy.gif" width="30"> Activity Graph</h2></summary>
   <div align="center">
     <a href="https://github.com/jules0000">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jules0000&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jules0000&bg_color=ffffff&color=deb887&line=F6E6C6&point=deb887&area=true&area_color=F6E6C6&hide_border=true" alt="GitHub Activity Graph" width="98%" />
     </a>
   </div>
 </details>
 
 <!-- Footer with Modern Wave Design -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6E6C6&height=120&section=footer" width="100%" />
