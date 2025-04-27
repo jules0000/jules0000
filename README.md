@@ -1,6 +1,6 @@
 <!-- Modern Sleek Profile Header with Gradient Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Julia%20Castro&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%" alt="Header Banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=EECEA8&height=180&section=header&text=Julia%20Castro&fontSize=42&fontColor=333&animation=fadeIn&fontAlignY=32" width="100%" alt="Header Banner" />
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Based+in+Philippines" alt="Typing SVG" />
