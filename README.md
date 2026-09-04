@@ -233,33 +233,56 @@ Relevant areas of study:
 
 ## Current Focus
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  SOFTWARE ENGINEERING                                    │
-│  Building reliable, scalable fullstack applications     │
-│                                                          │
-│  PRODUCT ENGINEERING                                    │
-│  Turning ideas and business requirements into products   │
-│                                                          │
-│  AI                                                     │
-│  Exploring AI integrations and AI-assisted workflows     │
-│                                                          │
-│  UI/UX                                                  │
-│  Designing interfaces before engineering them           │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-* Building production-ready **fullstack applications**
-* Exploring **AI-powered software and local LLMs**
-* Improving **system architecture and backend engineering**
-* Designing **modern interfaces and design systems**
-* Experimenting with **SaaS and product development**
-* Continuously improving development workflows through **AI-assisted tooling**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering
+
+Building reliable, maintainable, and scalable fullstack applications across the frontend, backend, databases, and APIs.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Product Engineering
+
+Turning ideas and business requirements into practical software products, from architecture and UX to deployment.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ✦ Artificial Intelligence
+
+Exploring AI integrations, local LLMs, AI-assisted development, and practical applications of intelligent software.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 UI/UX
+
+Designing thoughtful interfaces and experiences before engineering them, with a focus on usability, consistency, and clarity.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### What I'm Working On
+
+- Building production-ready **fullstack applications**
+- Exploring **AI-powered software and local LLMs**
+- Improving **system architecture and backend engineering**
+- Designing **modern interfaces and design systems**
+- Experimenting with **SaaS and product development**
+- Improving development workflows through **AI-assisted tooling**
 
 ---
-
 ## Engineering Philosophy
 
 > **Good software solves the problem. Great software makes the solution feel obvious.**
