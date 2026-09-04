@@ -131,16 +131,6 @@ I'm actively exploring **AI-assisted development, local LLMs, AI integrations, a
 
 ## Experience
 
-### Software Engineer
-
-**White Elephants Technologies** • Present
-Remote
-
-* Develop and maintain fullstack software applications
-* Work across frontend, backend, database, and API layers
-* Translate product requirements into functional software
-* Collaborate on application architecture, UI/UX, and implementation
-* Use modern development tools and AI-assisted workflows to improve development speed and quality
 
 ### Freelance Fullstack Software Engineer
 
