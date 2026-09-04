@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&text=JULIA%20CASTRO&fontSize=80&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,6,12,18&desc=Fullstack%20Software%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=22&descAlign=50&descAlignY=55&animation=twinkling" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&text=JULIA%20CASTRO&fontSize=80&fontAlign=50&fontAlignY=35&color=0:FF1493,100:FF69B4&desc=Fullstack%20Software%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=22&descAlign=50&descAlignY=55&animation=twinkling&fontColor=FFFFFF" alt="Header" />
 
 <br />
 
@@ -10,7 +10,6 @@
 <br />
 <br />
 
-<!-- Status Badges -->
 <p>
   <img src="https://img.shields.io/github/stars/jules0000?style=for-the-badge&logo=github&color=FF69B4&labelColor=1a1b27" alt="GitHub stars">
   <img src="https://komarev.com/ghpvc/?username=jules0000&label=Profile+Views&color=FF1493&style=for-the-badge&labelColor=1a1b27" alt="Profile views">
@@ -18,6 +17,10 @@
 </p>
 
 <br />
+
+<img src="assets/banners/hero-wave.svg" width="100%" alt="divider">
+
+</div>
 
 <img src="assets/banners/hero-wave.svg" width="100%" alt="divider">
 
