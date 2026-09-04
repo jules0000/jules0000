@@ -22,10 +22,6 @@
 
 </div>
 
-<img src="assets/banners/hero-wave.svg" width="100%" alt="divider">
-
-</div>
-
 ---
 
 ## Hi, I'm Julia 👋
