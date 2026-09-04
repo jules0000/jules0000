@@ -1,16 +1,23 @@
 <div align="center">
 
+<!-- Hero Section -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&text=JULIA%20CASTRO&fontSize=80&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,6,12,18&desc=Fullstack%20Software%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=22&descAlign=50&descAlignY=55&animation=twinkling" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=FF1493&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Software+Engineer+%2B+Designer;Building+Scalable+Web+Applications;Design+Driven.+Engineering+Focused." alt="Typing SVG" />
 
 <br />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=FF1493&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=Software+Engineer+%2B+Designer;Building+Scalable+Web+Applications;Design+Driven.+Engineering+Focused." alt="Typing SVG" />
+
+<br />
+<br />
+
+<!-- Status Badges -->
 <p>
   <img src="https://img.shields.io/github/stars/jules0000?style=for-the-badge&logo=github&color=FF69B4&labelColor=1a1b27" alt="GitHub stars">
   <img src="https://komarev.com/ghpvc/?username=jules0000&label=Profile+Views&color=FF1493&style=for-the-badge&labelColor=1a1b27" alt="Profile views">
   <img src="https://img.shields.io/badge/Software%20Engineer-Open%20to%20Opportunities-FFB6C1?style=for-the-badge&labelColor=1a1b27" alt="Status">
 </p>
+
+<br />
 
 <img src="assets/banners/hero-wave.svg" width="100%" alt="divider">
 
